@@ -1,7 +1,8 @@
 # Fireworks Simulation
+![Fireworks Preview](preview.gif)
 
 🎆 **Live demo:**  
-👉 https://yourusername.github.io/cs44n-fireworks/
+👉 https://melitasdsouza.github.io/cs44n-fireworks/
 
 Fireworks simulation created for **CS 44N: Creative Coding** at Stanford.
 
